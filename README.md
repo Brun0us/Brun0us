@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-saraiva-wakimoto-a18493262/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunosaraivawakimoto@gmail.com?subject=Contato+Comercial&body=Ol%C3%A1+Bruno+Saraiva+Wakimoto!)
 
-![Status](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Status](https://github-readme-stats.vercel.app/api?username=Brun0us&show_icons=true&theme=dark)
 
 ### Tecnologias que uso:
 <div styles="display: inline_block"<br/>
